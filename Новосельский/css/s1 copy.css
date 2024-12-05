@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(40, 199, 98, 0.757);
+    color: rgb(55, 98, 143);
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header,
+footer {
+    text-align: center;
+    background-color: rgb(65, 49, 92);
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+h2{
+    color: aqua;
+    text-decoration-line: underline;
+}
+.letter1{
+    color: brown;
+    text-decoration-line: underline;
+    font-size: 120%;
+}
+p::first-letter{
+    font-size: 120%;
+    color:  rgb(209, 15, 15);
+    text-decoration-line: underline
+}
+p ::first-line{
+    color: darkorange;
+}
+ section :hover{
+    background-color: dodgerblue;
+}
