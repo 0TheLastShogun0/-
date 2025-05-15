@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(61, 148, 230);
+    color: rgb(13, 12, 12);
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header,
+footer {
+    text-align: center;
+    background-color: rgb(61, 148, 230);
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+h2{color: rgb(255, 255, 255);
+padding: auto;
+margin: 15;}

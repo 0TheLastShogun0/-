@@ -1,0 +1,46 @@
+body{
+    line-height: 1.5;
+    background-color: rgb(241, 247, 249);
+    color: black;
+    font-family: 'Comic Sans';
+    margin-top: 25px;
+}
+
+article{
+    text-align: left;
+    image-orientation: left;
+    background-color: rgb(58, 96, 108);
+    color: white;
+    font-size: 20px;  
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 120px;
+}
+a{
+    color: black;
+}
+m1{
+    border-right: 50px;
+}
+ul{
+    columns: 2;
+}
+li {
+    list-style-type: none;
+   }
+h1
+ {
+    text-align: justify;
+    background-color: rgb(241, 247, 249);
+    font-size: 130px;
+    color: black;
+    padding-left: 160px;
+    font-size: 100px;
+}
+h2
+{
+    padding-left: 580px;
+}
+h3
+{
+}
